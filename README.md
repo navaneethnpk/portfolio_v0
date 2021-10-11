@@ -1,2 +1,1 @@
-# navaneethnpk.github.io
-# my portfolio website
+my portfolio website - navaneethnpk.github.io
