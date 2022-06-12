@@ -1,1 +1,1 @@
-my portfolio website - navaneethnpk.github.io
+My portfolio website: navaneethnpk.github.io
