@@ -1,1 +1,1 @@
-Theme Credit: [https://startbootstrap.com/](https://startbootstrap.com/)
+Theme Credit: [https://startbootstrap.com/theme/resume](https://startbootstrap.com/theme/resume)
